@@ -1,7 +1,7 @@
 
 # Codev — Landing Page
 
-![preview](./src/assets/Preview.png)
+![preview](./public/Preview.png)
 
 > La red social para desarrolladores. Comparte código, conéctate y colabora con desarrolladores de todo el mundo.
 
