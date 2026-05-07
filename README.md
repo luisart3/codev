@@ -138,7 +138,6 @@ incluyendo:
 
 - **Light mode** with `#f9f9f9` and `#ffffff` backgrounds for a clean, minimal feel
 - **Brand blue** `#2A53F3` as the primary accent color
-- **Minimal navbar** — logo + hamburger + CTA button, no traditional link overload
 - **Framer Motion** scroll animations with `useInView` for performance
 - **Real mobile mockups** integrated into feature cards for authentic product feel
 
